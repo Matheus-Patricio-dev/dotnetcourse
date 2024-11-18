@@ -1,0 +1,14 @@
+C:\Users\Matheus\source\repos\new-App\new-App\bin\Debug\net8.0\new-App.exe
+C:\Users\Matheus\source\repos\new-App\new-App\bin\Debug\net8.0\new-App.deps.json
+C:\Users\Matheus\source\repos\new-App\new-App\bin\Debug\net8.0\new-App.runtimeconfig.json
+C:\Users\Matheus\source\repos\new-App\new-App\bin\Debug\net8.0\new-App.dll
+C:\Users\Matheus\source\repos\new-App\new-App\bin\Debug\net8.0\new-App.pdb
+C:\Users\Matheus\source\repos\new-App\new-App\obj\Debug\net8.0\new-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\source\repos\new-App\new-App\obj\Debug\net8.0\new-App.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\new-App\new-App\obj\Debug\net8.0\new-App.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\new-App\new-App\obj\Debug\net8.0\new-App.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\new-App\new-App\obj\Debug\net8.0\new-App.dll
+C:\Users\Matheus\source\repos\new-App\new-App\obj\Debug\net8.0\refint\new-App.dll
+C:\Users\Matheus\source\repos\new-App\new-App\obj\Debug\net8.0\new-App.pdb
+C:\Users\Matheus\source\repos\new-App\new-App\obj\Debug\net8.0\new-App.genruntimeconfig.cache
+C:\Users\Matheus\source\repos\new-App\new-App\obj\Debug\net8.0\ref\new-App.dll

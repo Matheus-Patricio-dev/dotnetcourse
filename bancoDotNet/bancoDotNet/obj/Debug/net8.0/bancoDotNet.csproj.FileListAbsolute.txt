@@ -1,0 +1,15 @@
+C:\Users\Matheus\source\repos\bancoDotNet\bancoDotNet\obj\Debug\net8.0\bancoDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\source\repos\bancoDotNet\bancoDotNet\obj\Debug\net8.0\bancoDotNet.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\bancoDotNet\bancoDotNet\obj\Debug\net8.0\bancoDotNet.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\bancoDotNet\bancoDotNet\obj\Debug\net8.0\bancoDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\bancoDotNet\bancoDotNet\obj\Debug\net8.0\bancoDotNet.sourcelink.json
+C:\Users\Matheus\source\repos\bancoDotNet\bancoDotNet\bin\Debug\net8.0\bancoDotNet.exe
+C:\Users\Matheus\source\repos\bancoDotNet\bancoDotNet\bin\Debug\net8.0\bancoDotNet.deps.json
+C:\Users\Matheus\source\repos\bancoDotNet\bancoDotNet\bin\Debug\net8.0\bancoDotNet.runtimeconfig.json
+C:\Users\Matheus\source\repos\bancoDotNet\bancoDotNet\bin\Debug\net8.0\bancoDotNet.dll
+C:\Users\Matheus\source\repos\bancoDotNet\bancoDotNet\bin\Debug\net8.0\bancoDotNet.pdb
+C:\Users\Matheus\source\repos\bancoDotNet\bancoDotNet\obj\Debug\net8.0\bancoDotNet.dll
+C:\Users\Matheus\source\repos\bancoDotNet\bancoDotNet\obj\Debug\net8.0\refint\bancoDotNet.dll
+C:\Users\Matheus\source\repos\bancoDotNet\bancoDotNet\obj\Debug\net8.0\bancoDotNet.pdb
+C:\Users\Matheus\source\repos\bancoDotNet\bancoDotNet\obj\Debug\net8.0\bancoDotNet.genruntimeconfig.cache
+C:\Users\Matheus\source\repos\bancoDotNet\bancoDotNet\obj\Debug\net8.0\ref\bancoDotNet.dll

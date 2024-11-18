@@ -1,0 +1,14 @@
+C:\Users\Matheus\source\repos\exec2\exec2\bin\Debug\net8.0\exec2.exe
+C:\Users\Matheus\source\repos\exec2\exec2\bin\Debug\net8.0\exec2.deps.json
+C:\Users\Matheus\source\repos\exec2\exec2\bin\Debug\net8.0\exec2.runtimeconfig.json
+C:\Users\Matheus\source\repos\exec2\exec2\bin\Debug\net8.0\exec2.dll
+C:\Users\Matheus\source\repos\exec2\exec2\bin\Debug\net8.0\exec2.pdb
+C:\Users\Matheus\source\repos\exec2\exec2\obj\Debug\net8.0\exec2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\source\repos\exec2\exec2\obj\Debug\net8.0\exec2.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\exec2\exec2\obj\Debug\net8.0\exec2.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\exec2\exec2\obj\Debug\net8.0\exec2.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\exec2\exec2\obj\Debug\net8.0\exec2.dll
+C:\Users\Matheus\source\repos\exec2\exec2\obj\Debug\net8.0\refint\exec2.dll
+C:\Users\Matheus\source\repos\exec2\exec2\obj\Debug\net8.0\exec2.pdb
+C:\Users\Matheus\source\repos\exec2\exec2\obj\Debug\net8.0\exec2.genruntimeconfig.cache
+C:\Users\Matheus\source\repos\exec2\exec2\obj\Debug\net8.0\ref\exec2.dll

@@ -1,0 +1,15 @@
+C:\Users\Matheus\source\repos\Pensao\Pensao\obj\Debug\net8.0\Pensao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\source\repos\Pensao\Pensao\obj\Debug\net8.0\Pensao.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\Pensao\Pensao\obj\Debug\net8.0\Pensao.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\Pensao\Pensao\obj\Debug\net8.0\Pensao.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\Pensao\Pensao\obj\Debug\net8.0\Pensao.sourcelink.json
+C:\Users\Matheus\source\repos\Pensao\Pensao\bin\Debug\net8.0\Pensao.exe
+C:\Users\Matheus\source\repos\Pensao\Pensao\bin\Debug\net8.0\Pensao.deps.json
+C:\Users\Matheus\source\repos\Pensao\Pensao\bin\Debug\net8.0\Pensao.runtimeconfig.json
+C:\Users\Matheus\source\repos\Pensao\Pensao\bin\Debug\net8.0\Pensao.dll
+C:\Users\Matheus\source\repos\Pensao\Pensao\bin\Debug\net8.0\Pensao.pdb
+C:\Users\Matheus\source\repos\Pensao\Pensao\obj\Debug\net8.0\Pensao.dll
+C:\Users\Matheus\source\repos\Pensao\Pensao\obj\Debug\net8.0\refint\Pensao.dll
+C:\Users\Matheus\source\repos\Pensao\Pensao\obj\Debug\net8.0\Pensao.pdb
+C:\Users\Matheus\source\repos\Pensao\Pensao\obj\Debug\net8.0\Pensao.genruntimeconfig.cache
+C:\Users\Matheus\source\repos\Pensao\Pensao\obj\Debug\net8.0\ref\Pensao.dll
