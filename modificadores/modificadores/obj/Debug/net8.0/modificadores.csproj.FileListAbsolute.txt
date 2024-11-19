@@ -1,0 +1,15 @@
+C:\Users\Matheus\source\repos\modificadores\modificadores\bin\Debug\net8.0\modificadores.exe
+C:\Users\Matheus\source\repos\modificadores\modificadores\bin\Debug\net8.0\modificadores.deps.json
+C:\Users\Matheus\source\repos\modificadores\modificadores\bin\Debug\net8.0\modificadores.runtimeconfig.json
+C:\Users\Matheus\source\repos\modificadores\modificadores\bin\Debug\net8.0\modificadores.dll
+C:\Users\Matheus\source\repos\modificadores\modificadores\bin\Debug\net8.0\modificadores.pdb
+C:\Users\Matheus\source\repos\modificadores\modificadores\obj\Debug\net8.0\modificadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\source\repos\modificadores\modificadores\obj\Debug\net8.0\modificadores.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\modificadores\modificadores\obj\Debug\net8.0\modificadores.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\modificadores\modificadores\obj\Debug\net8.0\modificadores.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\modificadores\modificadores\obj\Debug\net8.0\modificadores.sourcelink.json
+C:\Users\Matheus\source\repos\modificadores\modificadores\obj\Debug\net8.0\modificadores.dll
+C:\Users\Matheus\source\repos\modificadores\modificadores\obj\Debug\net8.0\refint\modificadores.dll
+C:\Users\Matheus\source\repos\modificadores\modificadores\obj\Debug\net8.0\modificadores.pdb
+C:\Users\Matheus\source\repos\modificadores\modificadores\obj\Debug\net8.0\modificadores.genruntimeconfig.cache
+C:\Users\Matheus\source\repos\modificadores\modificadores\obj\Debug\net8.0\ref\modificadores.dll
